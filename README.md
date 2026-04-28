@@ -9,7 +9,7 @@ I run a 10-agent fleet on Claude that turns fragmented public records into struc
 ## What's here
 
 🧭 **[deltascanner-ai-pm](https://github.com/jmill823/deltascanner-ai-pm)** — the operator's repo
-The full agent OS: 14 versioned skill files, the Operator Profile, the Knowledge Compounding Protocol, 181 numbered insights captured across 13 production batches. Read it like documentation, not like code.
+The full agent OS: 14 versioned skill files, the Operator Profile, the Knowledge Compounding Protocol, 181 numbered insights captured across 13 production batches.
 
 📖 **[The Layer Nobody Designs For](https://github.com/jmill823/deltascanner-ai-pm/blob/main/model-comparison-case-study.md)** — case study
 What 90 days of running a 10-agent fleet taught me about the gap between agent demos and agents that work for months. A side-by-side comparison showing how the same skill file produces different outputs across model versions, and why the fix is an operator profile, not a prompt rewrite.
