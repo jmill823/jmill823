@@ -1,16 +1,35 @@
-## Hi there 👋
+# Jeff Millett
 
-<!--
-**jmill823/jmill823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Agent Operator · 0→1 AI Product · Multi-Agent Systems in Production**
 
-Here are some ideas to get you started:
+I run a 10-agent fleet on Claude that turns fragmented public records into structured intelligence across 13 US markets, and growing. I'm a non-technical founder. The agents do the engineering. I do the orchestration, the calibration, and the operating discipline that keeps them reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What's here
+
+🧭 **[deltascanner-ai-pm](https://github.com/jmill823/deltascanner-ai-pm)** — the operator's repo
+The full agent OS: 14 versioned skill files, the Operator Profile, the Knowledge Compounding Protocol, 181 numbered insights captured across 13 production batches. Read it like documentation, not like code.
+
+📖 **[The Layer Nobody Designs For](https://github.com/jmill823/deltascanner-ai-pm/blob/main/model-comparison-case-study.md)** — case study
+What 90 days of running a 10-agent fleet taught me about the gap between agent demos and agents that work for months. A side-by-side comparison showing how the same skill file produces different outputs across model versions, and why the fix is an operator profile, not a prompt rewrite.
+
+🏗️ **[Knowledge Compounding Protocol](https://github.com/jmill823/deltascanner-ai-pm/blob/main/architecture/adr-001-knowledge-compounding-protocol.md)** — ADR
+The protocol that stopped my agents from repeating each other's mistakes. Every solution writes once. Every new build reads first. First-pass acceptance climbed after rollout.
+
+---
+
+## What I'm working on
+
+- **[DeltaScanner](https://deltascanner.com)** — distressed property intelligence across 13 US markets
+- **[Tilt](https://playtilt.io)** — commissioner-first sports pool platform, built end-to-end with a multi-agent AI pipeline
+- **LineWalker** — evaluation-driven generative art system; converts raster images into continuous single-line vector paths
+
+---
+
+## What I write about
+
+The operator side of agent infrastructure — the layer between "agent demos" and "agents that run reliably" Calibration drift, skill governance, knowledge compounding, the operating discipline that keeps a multi-agent system from collapsing under its own weight.
+---
+
+📫 millett.jeffrey@gmail.com  ·  [LinkedIn](https://www.linkedin.com/in/jeffrey-millett-productmanager1214/)
