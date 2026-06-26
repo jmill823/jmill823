@@ -2,7 +2,7 @@
 
 **Senior AI Product Manager · 0→1 AI Products · Agent Operator**
 
-I scaled Deepblocks from 0 → 100+ B2B clients in 10 months as Head of Product / COO — now I build and operate production AI. I ran a 10-agent fleet on Claude to author and validate a deterministic decision-engine that turns fragmented municipal records into distressed property intelligence across 13 US markets. I'm a non-technical founder: the agents do the engineering; I do the orchestration, the calibration, and the eval discipline that keeps agent-authored judgment trustworthy.
+I scaled Deepblocks from 0 → 100+ clients in 10 months as Head of Product / COO — now I build and operate production AI. I ran an 8-agent fleet on Claude to author and validate a deterministic decision-engine that turns fragmented municipal records into distressed property intelligence across 13 US markets. I'm a non-technical founder: the agents do the engineering; I do the orchestration, the calibration, and the eval discipline that keeps agent-authored judgment trustworthy.
 
 ---
 
