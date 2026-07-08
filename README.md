@@ -31,14 +31,14 @@ ADR: the protocol that stopped my agents from repeating each other's mistakes. E
 
 ## What I'm working on
 
-- **[DeltaScanner](https://deltascanner.com)** — distressed property intelligence across 13 US markets
+- **[Deltascanner](https://deltascanner.com)** — distressed property intelligence across 13 US markets
 - **[Tilt](https://playtilt.io)** — commissioner-first sports pool platform, built end-to-end with a multi-agent AI pipeline
 
 ---
 
 ## What I write about
 
-The operator side of agent infrastructure as a non-technical founder — the layer between "agent demos" and "agents that hold for months." Calibration drift, process rot, documentation drift, discipline drift — the eval discipline that keeps agent-authored judgment trustworthy.
+The operator side of agent infrastructure as a non-technical founder.  Calibration drift, process rot, documentation drift, discipline drift — the eval discipline that keeps agent-authored judgment trustworthy.
 ---
 
 📫 millett.jeffrey@gmail.com  ·  [LinkedIn](https://www.linkedin.com/in/jeffrey-millett-productmanager1214/)
