@@ -22,7 +22,7 @@ An interactive surface that compresses a compounding ledger into discrete, execu
 The operator's repo: the full agent OS — 14 versioned skill files, the Operator Profile, the Knowledge Compounding Protocol, and the architecture decision records that name the failure each layer guards against.
 
 📖 **[The Layer Nobody Designs For](https://github.com/jmill823/deltascanner-ai-pm/blob/main/one-pagers/model-comparison-onepager.md)**
-Case study: what 100+ days of running a 10-agent fleet taught me about the gap between agent demos and agents that hold for months. A side-by-side showing how the same skill file produces different outputs across model versions — and why the fix is an operator profile, not a prompt rewrite.
+Case study: what 100+ days of running an 8-agent fleet taught me about the gap between agent demos and agents that hold for months. A side-by-side showing how the same skill file produces different outputs across model versions — and why the fix is an operator profile, not a prompt rewrite.
 
 🏗️ **[Knowledge Compounding Protocol](https://github.com/jmill823/deltascanner-ai-pm/blob/main/architecture/adr-001-knowledge-compounding-protocol.md)**
 ADR: the protocol that stopped my agents from repeating each other's mistakes. Every solution writes once; every new build reads first; contradictions surface as blocking flags instead of silent overwrites. 16/16 acceptance tests passed on first implementation.
