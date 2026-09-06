@@ -39,7 +39,7 @@ ADR: the protocol that stopped my agents from repeating each other's mistakes. E
 
 ## What I write about
 
-The operator side of agent infrastructure as a non-technical operator.  Calibration drift, process rot, documentation drift, discipline drift — the eval discipline that keeps agent-authored judgment trustworthy.
+The operator side of agent infrastructure, as a non-technical one.  Calibration drift, process rot, documentation drift, discipline drift — the eval discipline that keeps agent-authored judgment trustworthy.
 ---
 
 📫 millett.jeffrey@gmail.com  ·  [LinkedIn](https://www.linkedin.com/in/jeffrey-millett-productmanager1214/)
